@@ -85,6 +85,3 @@
   </a>
 </p>
 
----
-
-<h4 align="center">💙 Thanks for visiting my GitHub profile! Let's connect and build something great together.</h4>
