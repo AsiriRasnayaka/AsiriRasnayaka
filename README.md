@@ -1,16 +1,90 @@
-<h1 align="center">Hi 👋, I'm Asiri Rasnayake</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+<!-- 💼 Professional GitHub Profile README for Asiri Rasnayake -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asirirasnayaka" alt="asirirasnayaka" /></a> </p>
+<h1 align="center">👋 Hi, I'm <span style="color:#0A66C2;">Asiri Rasnayake</span></h1>
+<h3 align="center">💻 Frontend Developer | 🌐 Web Developer | 🇱🇰 Sri Lanka</h3>
 
-- 📫 How to reach me **asirirasnayaka123@gmail.com**
+<div align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400" alt="Web Developer GIF">
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/asirirasnayaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="asirirasnayaka" height="30" width="40" /></a>
+<br/>
+
+<!-- 🌐 Social Badges -->
+<p align="center">
+  <a href="mailto:asirirasnayaka123@gmail.com">
+    <img src="https://img.shields.io/badge/Email-asirirasnayaka123%40gmail.com-red?style=for-the-badge&logo=gmail" alt="Email Badge"/>
+  </a>
+  <a href="https://linkedin.com/in/asiri-rasnayaka">
+    <img src="https://img.shields.io/badge/LinkedIn-Asiri%20Rasnayake-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://fb.com/asiri-rasnayaka">
+    <img src="https://img.shields.io/badge/Facebook-Asiri%20Rasnayake-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=asirirasnayaka&show_icons=true&locale=en&layout=compact" alt="asirirasnayaka" /></p>
+### 👨‍💻 About Me
+
+- 🚀 I’m a **Frontend Developer** passionate about creating responsive, high-performance, and user-friendly web interfaces.  
+- 🎯 I focus on writing **clean, maintainable, and efficient code** using modern technologies.  
+- 💡 Currently exploring **Node.js** and **Express.js** to expand my backend skills.  
+- 💬 *Ask me about* — `C`, `C#`, `Java`, and `UI/UX Design`.  
+- ⚡ *Fun fact* — That’s what she said 😄  
+
+---
+
+### 🧰 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=arduino,c,cs,css,express,figma,git,html,java,js,linux,mongodb,mysql,nodejs,python,react,spring,sqlite&theme=light" />
+</p>
+
+---
+
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=asirirasnayaka&show_icons=true&theme=transparent&hide_border=true&title_color=0A66C2&icon_color=0A66C2" alt="GitHub Stats"/>
+  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=asirirasnayaka&theme=transparent&hide_border=true&ring=0A66C2&fire=0A66C2" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asirirasnayaka&layout=compact&theme=transparent&hide_border=true&title_color=0A66C2" alt="Top Languages"/>
+</p>
+
+---
+
+### 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=asirirasnayaka&theme=flat&margin-w=10&margin-h=10&no-bg=true&no-frame=true&column=6" alt="GitHub Trophies"/>
+</p>
+
+---
+
+### 🧠 Currently Exploring
+
+- 🟢 **Full-Stack JavaScript (MERN)**
+- ⚙️ **API Development** with Express.js  
+- 🎨 **Modern UI/UX Design** principles  
+
+---
+
+### 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/asiri-rasnayaka">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
+  </a>
+  <a href="https://fb.com/asiri-rasnayaka">
+    <img src="https://img.icons8.com/color/48/000000/facebook-new.png" alt="Facebook"/>
+  </a>
+  <a href="mailto:asirirasnayaka123@gmail.com">
+    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail"/>
+  </a>
+</p>
+
+---
+
+<h4 align="center">💙 Thanks for visiting my GitHub profile! Let's connect and build something great together.</h4>
